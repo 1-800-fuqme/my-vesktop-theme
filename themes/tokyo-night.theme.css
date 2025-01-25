@@ -130,9 +130,9 @@
   --background-accent: #d7827e;
   --background-floating: #fffaf3;
   --background-mentioned: #c4a7e733;
-  --background-modifier-hover: #dfdad9;
-  --background-modifier-active: #f2e9e1;
-  --background-modifier-selected: #f2e9e1;
+  --background-modifier-hover: #2c2a2a25;
+  --background-modifier-active: #5a525229;
+  --background-modifier-selected: #555e693d;
   --background-modifier-accent: #06060714;
   --border-mentioned: #a9afcf;
   --background-mentioned-hover: #cfd2e9;
