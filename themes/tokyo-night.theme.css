@@ -114,7 +114,7 @@
   --header-secondary: var(--text-muted);
 
   /* Text Color */
-  --text-normal: #575279;
+  --text-normal: #191724;
   --text-muted: #9893a5;
   --interactive-normal: #575279‎;
   --interactive-hover: #9893a5;
@@ -128,15 +128,15 @@
   --background-tertiary: #f2e9e1;
   --background-tertiary-alt: #bbbbc2;
   --background-accent: #d7827e;
-  --background-floating: #1f1d2e;
+  --background-floating: #fffaf3;
   --background-mentioned: #c4a7e733;
-  --background-modifier-hover: #2c2a2a25;
-  --background-modifier-active: #5a525229;
-  --background-modifier-selected: #555e693d;
+  --background-modifier-hover: #dfdad9;
+  --background-modifier-active: #f2e9e1;
+  --background-modifier-selected: #f2e9e1;
   --background-modifier-accent: #06060714;
   --border-mentioned: #a9afcf;
   --background-mentioned-hover: #cfd2e9;
-  --accent-color: #e21414;
+  --accent-color: #ee1a1a;
 
   /* Folder Color */
   --folder-color: #a7a6a6d0;
