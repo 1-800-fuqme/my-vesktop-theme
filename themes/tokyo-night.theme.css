@@ -114,22 +114,22 @@
   --header-secondary: var(--text-muted);
 
   /* Text Color */
-  --text-normal: #2e3338;
-  --text-muted: #747f8d;
-  --interactive-normal: #4c505e;
-  --interactive-hover: #404350;
-  --interactive-active: #373a44;
-  --interactive-muted: #77797c;
+  --text-normal: #575279;
+  --text-muted: #9893a5;
+  --interactive-normal: #575279‎;
+  --interactive-hover: #9893a5;
+  --interactive-active: #575279;
+  --interactive-muted: #647173‎;
 
   /* Background Color */
-  --background-primary: #191724;
-  --background-secondary: #1f1d2e;
-  --background-secondary-alt: #26233a;
-  --background-tertiary: #26233a;
+  --background-primary: #faf4ed;
+  --background-secondary: #fffaf3;
+  --background-secondary-alt: #f2e9de;
+  --background-tertiary: #f2e9e1;
   --background-tertiary-alt: #bbbbc2;
-  --background-accent: #ebbcba;
+  --background-accent: #d7827e;
   --background-floating: #1f1d2e;
-  --background-mentioned: #c4c7da;
+  --background-mentioned: #c4a7e733;
   --background-modifier-hover: #2c2a2a25;
   --background-modifier-active: #5a525229;
   --background-modifier-selected: #555e693d;
@@ -143,7 +143,7 @@
   --folder-color-light: #afafafd0;
 
   /* Input Box Color */
-  --input-box-bg: #c2c2c7;
+  --input-box-bg: #f2e9e1;
   --input-box-border: #b3b4b8;
   --input-box-border-focus: #959699;
 
