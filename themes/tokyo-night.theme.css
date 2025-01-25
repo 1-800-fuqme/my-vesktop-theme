@@ -8,7 +8,7 @@
  */
 
 /* DONT TOUCH THIS!!! */
-@import url("https://raw.githubusercontent.com/ashtrath/Tokyo-Night/refs/heads/main/src/main.css");
+@import url("https://raw.githubusercontent.com/1-800-fuqme/Tokyo-Night-Sepia/refs/heads/main/src/main.css");
 
 /*  Read this before editing stuff!!!
 *
@@ -36,7 +36,7 @@
 /* @import url("https://raw.githubusercontent.com/ashtrath/Tokyo-Night/refs/heads/main/src/addons/username-background.css"); */
 
 /* Mac Like Titlebar (windows only), get mac style titlebar on windows client (Enabled by default) */
-@import url("https://raw.githubusercontent.com/ashtrath/Tokyo-Night/refs/heads/main/src/addons/mac-titlebar.css");
+/* @import url("https://raw.githubusercontent.com/ashtrath/Tokyo-Night/refs/heads/main/src/addons/mac-titlebar.css"); */
 
 /* Compact Mode, hide some UI part on specific windows size,
   <920px Channel sidebar and member list get hidden, <600px Chat window only. (Disabled by default) */
@@ -122,13 +122,13 @@
   --interactive-muted: #77797c;
 
   /* Background Color */
-  --background-primary: #d5d6db;
-  --background-secondary: #cecfd4;
-  --background-secondary-alt: #b6b7bd;
-  --background-tertiary: #c5c6cc;
+  --background-primary: #191724;
+  --background-secondary: #1f1d2e;
+  --background-secondary-alt: #26233a;
+  --background-tertiary: #26233a;
   --background-tertiary-alt: #bbbbc2;
-  --background-accent: #9ca3bb;
-  --background-floating: #c2c2c9;
+  --background-accent: #ebbcba;
+  --background-floating: #1f1d2e;
   --background-mentioned: #c4c7da;
   --background-modifier-hover: #2c2a2a25;
   --background-modifier-active: #5a525229;
@@ -136,7 +136,7 @@
   --background-modifier-accent: #06060714;
   --border-mentioned: #a9afcf;
   --background-mentioned-hover: #cfd2e9;
-  --accent-color: #365aaa;
+  --accent-color: #e21414;
 
   /* Folder Color */
   --folder-color: #a7a6a6d0;
