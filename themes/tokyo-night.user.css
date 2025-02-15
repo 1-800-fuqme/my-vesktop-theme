@@ -148,8 +148,8 @@
   --scrollbar-auto-scrollbar-color-track: var(--scrollbar-auto-track);
 
   /* Chat Box Color */
-  --channeltextarea-background: var(--background-secondary-alt);
-  --channeltextarea-background-hover: var(--background-tertiary);
+  --channeltextarea-background: var(--background-secondary);
+  --channeltextarea-background-hover: var(--background-secondary-alt);
 
   /* Square avatar addons */
 	--avatar-roundess: 5px;
