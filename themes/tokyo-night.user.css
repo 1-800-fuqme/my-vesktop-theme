@@ -145,7 +145,7 @@
   --scrollbar-auto-thumb-hover: #77777785;
   --scrollbar-auto-track: transparent;
   --scrollbar-auto-scrollbar-color-thumb: var(--scrollbar-auto-thumb);
-  --scrollbar-auto-scrollbar-color-track: var(--scrollbar-auto-thumb-hover);
+  --scrollbar-auto-scrollbar-color-track: var(--scrollbar-auto-track);
 
   /* Chat Box Color */
   --channeltextarea-background: var(--background-secondary);
